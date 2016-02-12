@@ -19,7 +19,6 @@
         "url": "https://github.com/davidgtonge/underscore-query.git"
     },
     "dependencies": {
-        "underscore": ">=1.1.x"
     },
     "devDependencies": {
         "coffee-script": ">=1.7.x",
@@ -27,7 +26,8 @@
         "backbone":"",
         "uglify-js": "",
         "handlebars": "",
-        "lodash":""
+        "lodash":"",
+        "underscore": ">=1.1.x"
     },
     "scripts": {
         "test": "mocha"
